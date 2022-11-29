@@ -1,6 +1,6 @@
 {
   "name": "ahmed-factorial",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "basic npx tool for learning",
   "main": "index.js",
   "scripts": {
