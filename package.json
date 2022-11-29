@@ -1,0 +1,22 @@
+{
+  "name": "ahmed-factorial",
+  "version": "1.0.0",
+  "description": "basic npx tool for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aahmedfaraz/create-npx-tool.git"
+  },
+  "author": "ahmedfaraz.contact@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aahmedfaraz/create-npx-tool/issues"
+  },
+  "homepage": "https://github.com/aahmedfaraz/create-npx-tool#readme",
+  "bin": {
+    "ahmed-factorial": "bin/index.js"
+  }
+}
