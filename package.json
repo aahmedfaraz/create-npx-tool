@@ -18,5 +18,9 @@
   "homepage": "https://github.com/aahmedfaraz/create-npx-tool#readme",
   "bin": {
     "ahmed-factorial": "bin/index.js"
-  }
+  },
+  "keywords": [
+    "factorial",
+    "math"
+  ]
 }

@@ -1,6 +1,6 @@
 # ahmed-factorial
+https://www.npmjs.com/package/ahmed-factorial
 This package is a npx tool to find factorials of integers.
-NPM Link: (https://www.npmjs.com/package/ahmed-factorial)[https://www.npmjs.com/package/ahmed-factorial]
 
 # How to use?
 Use this command
